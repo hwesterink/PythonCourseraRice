@@ -3,6 +3,7 @@
 # all output for the game will be printed in the console
 
 # import modules to be used in this program
+
 import simplegui
 import random
 import math
